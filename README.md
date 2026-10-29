@@ -1,4 +1,4 @@
-# Does Forecast Accuracy Predict Decision Value? Evaluating Cloud Power Management Under Workload Drift
+# Forecast Accuracy vs. Decision Value in Cloud Power Management Under Workload Drift
 
 Code, trained forecasters, and per-episode results for the paper.
 The study asks whether a more accurate workload forecast gives a better host-sleep decision in a cloud data centre.
