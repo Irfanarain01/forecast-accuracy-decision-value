@@ -1,0 +1,8 @@
+numpy
+pandas
+scipy
+matplotlib
+scikit-learn
+torch
+gymnasium>=1.0
+stable-baselines3>=2.3
