@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Fetches CloudSim Plus 8.5.7 and its dependencies into libs/ :   mvn -f pom.xml dependency:copy-dependencies -DoutputDirectory=libs -->
+<project xmlns="http://maven.apache.org/POM/4.0.0">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>paper1</groupId>
+  <artifactId>p1runner</artifactId>
+  <version>1.0</version>
+  <dependencies>
+    <dependency>
+      <groupId>org.cloudsimplus</groupId>
+      <artifactId>cloudsim-plus</artifactId>
+      <version>8.5.7</version>
+    </dependency>
+  </dependencies>
+</project>

@@ -1,0 +1,12 @@
+Alibaba 120
+Alibaba 300
+Alibaba 600
+Azure 120
+Azure 300
+Azure 600
+fastStorage 120
+fastStorage 300
+fastStorage 600
+Rnd 120
+Rnd 300
+Rnd 600
